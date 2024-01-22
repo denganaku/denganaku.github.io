@@ -10,9 +10,9 @@
             "main_ads_native": "null",
             "open_ads": "null",
 
-            "backup_ads_banner": "null",
-            "backup_ads_intertitial": "null",
-            "backup_ads_native": "null",
+            "backup_ads_banner": "ca-app-pub-4001798029726302/9579585899",
+            "backup_ads_intertitial": "ca-app-pub-4001798029726302/1051139439",
+            "backup_ads_native": "ca-app-pub-4001798029726302/4992068659",
 
             "initialize_sdk": "null",
             "initialize_sdk_backup_ads": "null",
